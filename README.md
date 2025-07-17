@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Wassim Benmechiche, a 25-year-old 👨‍💻 Software Engineer  | Flutter Developer from 📍 Constantine, Algeria.</p>
+<p align="left">I’m Wassim Benmechiche, a 25y 👨‍💻 Software Engineer  | Flutter Developer from 📍 Constantine, Algeria.</p>
 
 ###
 
