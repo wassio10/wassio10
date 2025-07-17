@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 📱 Flutter & Dart (Cross-Platform Development)  <br>- 🧠 MVVM Architecture, OOP  <br>- 🌐 RESTful APIs Integration  <br>- 🔧 Git, GitHub  <br>- ⚙️ State Management (BLoC, Provider, Cubit)  <br>- 🔥 Firebase: Auth, Firestore, Cloud Functions, Storage  <br>- 💾 Local Storage  <br>- 🚀 App Deployment to Google Play</p>
+<p align="left">- 📱 Flutter & Dart (Cross-Platform Development)  <br>- 🧠 MVVM Architecture, OOP  <br>- 🌐 RESTful APIs Integration  <br>- 🔧 Git, GitHub  <br>- ⚙️ State Management (BLoC/Provider)  <br>- 🔥 Firebase: Auth, Firestore, Cloud Functions, Storage  <br>- 💾 Local Storage  <br>- 🚀 App Deployment to Google Play</p>
 
 ###
 
