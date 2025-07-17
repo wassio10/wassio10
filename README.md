@@ -1,12 +1,12 @@
-<img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
-<h1 align="center">Hello World!👋</h1>
+<h1 align="left">Hello World!👋</h1>
 
 ###
 
-<h1 align="center">👨‍💻 Software Engineer | Flutter Developer</h1>
+<p align="left">I’m Wassim Benmechiche, a 25-year-old 👨‍💻 Software Engineer  | Flutter Developer from 📍 Constantine, Algeria.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 📱 Flutter & Dart (Cross-Platform Development)  <br>- 🧠 MVVM Architecture, OOP  <br>- 🌐 RESTful APIs Integration  <br>- 🔧 Git, GitHub  <br>- ⚙️ State Management (BLoC/Provider)  <br>- 🔥 Firebase: Auth, Firestore, Cloud Functions, Storage  <br>- 💾 Local Storage  <br>- 🚀 App Deployment to Google Play</p>
+<p align="left">- 📱 Flutter & Dart (Cross-Platform Development)  <br>- 🧠 MVVM Architecture, OOP  <br>- 🌐 RESTful APIs Integration  <br>- 🔧 Git, GitHub  <br>- ⚙️ State Management (BLoC, Provider, Cubit)  <br>- 🔥 Firebase: Auth, Firestore, Cloud Functions, Storage  <br>- 💾 Local Storage  <br>- 🚀 App Deployment to Google Play</p>
 
 ###
 
